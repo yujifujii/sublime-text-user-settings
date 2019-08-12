@@ -5,13 +5,13 @@ Sublime Text 3 User settings
 
 ```
 cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/
-rm -rf Users
-git clone https://github.com/yujifujii/sublime-text-user-settings.git Users
+rm -rf User
+git clone https://github.com/yujifujii/sublime-text-user-settings.git User
 ```
 
 ## update
 
 ```
-cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/Users
+cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User
 git pull
 ```
