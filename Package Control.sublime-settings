@@ -1,0 +1,55 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"AutoFileName",
+		"Bootstrap 4 Autocomplete",
+		"Bootstrap 4 Snippets",
+		"BracketHighlighter",
+		"Codecs33",
+		"Color Highlighter",
+		"ConvertToUTF8",
+		"DataConverter",
+		"DocBlockr",
+		"DotENV",
+		"FileDiffs",
+		"Function Name Display",
+		"Git",
+		"GitGutter",
+		"GotoDocumentation",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"Increment Selection",
+		"InputSequence",
+		"jQuery",
+		"MarkdownPreview",
+		"Package Control",
+		"phpfmt",
+		"Pretty JSON",
+		"SFTP",
+		"SideBarEnhancements",
+		"SqlBeautifier",
+		"StringEncode",
+		"StringUtilities",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"Sublimerge 3",
+		"SyncedSideBar",
+		"Terminal",
+		"Theme - Brogrammer",
+		"Theme - Soda",
+		"Theme - SoDaReloaded",
+		"TrailingSpaces",
+		"Xdebug Client"
+	],
+	"repositories":
+	[
+		"https://github.com/kazu1107/InputSequence.git"
+	]
+}

@@ -1,0 +1,6 @@
+[
+    { "keys": ["ctrl+="], "command": "goto_definition" },
+    { "keys": ["ctrl+t"], "command": "dash_doc"},
+    { "keys": ["f1"], "command": "goto_documentation" }
+
+]

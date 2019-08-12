@@ -1,0 +1,16 @@
+{
+	"excludes":
+	[
+	],
+	"format_on_save": false,
+	"option": "value",
+	"passes":
+	[
+		"CakePHPStyle"
+	],
+	"php_bin": "/usr/local/bin/php",
+	"psr1": true,
+	"psr1_naming": true,
+	"psr2": true,
+	"version": 4
+}
